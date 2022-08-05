@@ -7,6 +7,9 @@ header{
     text-align: center;
     background-color:blue;
     color: white;
+    box-shadow:5px 5px 5px green;
+    padding: 5px 5px;
+
 }
 
 #main-title{
@@ -23,13 +26,18 @@ header{
     border-radius: .75em;
 }
 
-img{
+div{
     text-align: center;
     display: block;
-    border: orange
+    border: orange;
+    margin-bottom: 5px 5px;
 }
 
 #ptwo{
     display: block;
     height: 20%;
+}
+
+article{
+    padding: 5px 5px;
 }
