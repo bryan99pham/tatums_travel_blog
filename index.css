@@ -1,5 +1,6 @@
 body{
-    background-color: lightseagreen;
+    background-color: gray;
+    box-shadow:5px 5px green;
 }
 
 header{
@@ -18,9 +19,17 @@ header{
 .subheading{
     text-align: center;
     background-color: bisque;
-    text-decoration: underline;
+    border-bottom: 10px;
+    border-radius: .75em;
 }
 
-div{
+img{
     text-align: center;
+    display: block;
+    border: orange
+}
+
+#ptwo{
+    display: block;
+    height: 20%;
 }
