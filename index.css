@@ -1,0 +1,26 @@
+body{
+    background-color: lightseagreen;
+}
+
+header{
+    text-align: center;
+    background-color:blue;
+    color: white;
+}
+
+#main-title{
+    background-image: linear-gradient(rgb(116, 201, 241),red);
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+
+.subheading{
+    text-align: center;
+    background-color: bisque;
+    text-decoration: underline;
+}
+
+div{
+    text-align: center;
+}
